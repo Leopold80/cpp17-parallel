@@ -1,0 +1,3 @@
+/home/leopold/cpp-multithread/build/CMakeFiles/rebuild_cache.dir
+/home/leopold/cpp-multithread/build/CMakeFiles/edit_cache.dir
+/home/leopold/cpp-multithread/build/CMakeFiles/cpp-par.dir

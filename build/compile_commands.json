@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/leopold/cpp-multithread/build",
+  "command": "/usr/bin/g++   -I/home/leopold/cpp-multithread/inc   -std=c++17  -O3 -Wall   -o CMakeFiles/cpp-par.dir/src/main.cpp.o -c /home/leopold/cpp-multithread/src/main.cpp",
+  "file": "/home/leopold/cpp-multithread/src/main.cpp"
+}
+]

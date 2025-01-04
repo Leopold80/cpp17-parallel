@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/utils.hpp
+cmath
+-
+thread
+-
+vector
+-
+algorithm
+-
+numeric
+-
+functional
+-
+
+/home/leopold/cpp-multithread/src/main.cpp
+iostream
+-
+vector
+-
+utils.hpp
+/home/leopold/cpp-multithread/src/utils.hpp
+
